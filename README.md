@@ -21,4 +21,8 @@ If it already exists, show me the diff and ask whether to overwrite.
 - And more...
 
 ## Make Your Own
-Fork this repo and add your own skills and context.
+- Fork the repo.
+- Configure your global harness.
+- Copy and paste your global harness folder into a project you're working on.
+- Ask your agent to follow the instructions.
+- Delete your global harness folder.
