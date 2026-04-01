@@ -1,6 +1,6 @@
 # My Global Harness
 
-A portable folder of you carry across projects.
+A portable folder you carry across projects.
 
 ## Usage Steps
 1. Copy MyGlobalHarness into your project directory.
