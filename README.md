@@ -24,11 +24,4 @@ If it already exists, show me the diff and ask whether to overwrite.
 ## Structure
 - `skills/` — each folder becomes a slash command (e.g., `/plan`, `/match-style`)
 - `context/` — reference files you want to keep
-- And more...
-
-## Make Your Own
-- Fork the repo.
-- Configure your global harness.
-- Copy and paste your global harness folder into a project you're working on.
-- Ask your agent to follow the instructions.
-- Delete the global harness folder from your project.
+- And more - anything you want to keep and reuse.
