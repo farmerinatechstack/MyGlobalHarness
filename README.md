@@ -3,8 +3,14 @@
 A folder to keep and copy your favorite components across agent collaborations.
 
 ## Usage Steps
-1. Copy the MyGlobalHarness folder into the project directory where you want to copy over your components (skills, style guides, etc).
-2. Ask your agent to follow the instructions in the MyGlobalHarness folder that you copied. Here are the agent instructions:
+Set Up Your Harness
+1. Clone the repo.
+2. Populate your resulting MyGlobalHarness folder with the components you want to reuse.
+3. Add more components over time.
+
+Deploy Your Harness
+1. Copy your MyGlobalHarness folder into the project directory where you want to copy over your components.
+2. Ask your agent to follow the instructions in the MyGlobalHarness folder that you copied into your project directory. Here are the agent instructions:
 
 ```
 Ask me where to look for files and install files.
