@@ -9,7 +9,7 @@ Set Up Your Harness
 3. Add more components over time.
 
 Deploy Your Harness
-1. Copy your MyGlobalHarness folder into the project directory where you want to copy over your components. Make any edits in the copy.
+1. Copy your MyGlobalHarness folder into the project where you want to copy your components. Make edits.
 2. Ask your agent to follow the instructions in the MyGlobalHarness folder. Here are the agent instructions:
 
 ```
