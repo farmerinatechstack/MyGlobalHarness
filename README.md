@@ -1,6 +1,6 @@
 # My Global Harness
 
-A portable folder you carry across projects.
+A folder to keep and copy your favorite components across agent collaborations.
 
 ## Usage Steps
 1. Copy MyGlobalHarness into your project directory.
